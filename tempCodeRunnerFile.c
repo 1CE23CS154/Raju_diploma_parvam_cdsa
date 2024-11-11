@@ -1,0 +1,1 @@
+printf("uppercase string is %s\n",str);
